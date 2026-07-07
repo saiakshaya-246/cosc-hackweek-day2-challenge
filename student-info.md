@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Akshaya
+- Roll Number: 6618
+- Section: A
+- GitHub Username: saiakshaya-246
